@@ -1,0 +1,25 @@
+# 忽略虚拟环境
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+
+# 忽略日志文件
+*.log
+
+# 忽略测试文件和目录
+test/
+
+# 忽略__pycache__目录
+__pycache__/
+
+# 忽略.git目录
+.git/
+
+# 忽略.vscode目录
+.vscode/
+
+# 忽略任何本地开发文件
+.env
+.venv
